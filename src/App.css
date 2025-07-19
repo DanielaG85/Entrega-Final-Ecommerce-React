@@ -1,0 +1,29 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #9B7EBD;
+}
+
+
+.btn-primary {
+  background-color: #9B7EBD !important;
+  border-color: #9B7EBD !important;
+  color: black;
+}
+
+.btn-primary:hover {
+  background-color: #7e51b1  !important;
+  border-color: #7e51b1  !important;
+}
+
+.bg-light {
+  background-color: black !important;
+}
+
+.custom-caption {
+  background-color: rgba(3, 3, 3, 0.6); 
+}
+
+
