@@ -110,7 +110,7 @@ index.js
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/nombre-del-repo.git
+git clone https://DanielaG85/Entrega-Final-Ecommerce-React
 
 
 
